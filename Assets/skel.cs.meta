@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 629cdbe20a5114b4e881f1f67f79ee23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hand: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - handText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - leg: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - legText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - spinalCord: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - spineText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - skull: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - skullText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - ribs: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - ribsText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - wrist: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - wristText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - pelvis: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - pelvisText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - shoulder: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - shoulderText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - feet: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - feetText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - thigh: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  - thighText: {fileID: -927199367670048503, guid: 3f0132e0ef08b5f4b85cadcce7d41bee, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
