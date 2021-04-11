@@ -39,7 +39,22 @@ Team Name: MAAC
 - When the apk runs place your phone in such a way that it's camera faces the `ImageTarget`  
 
 On the laptop it will look something like this:-  
-![ad4b0e58-2f0a-471f-a42e-6e159bdde284](https://user-images.githubusercontent.com/43493203/114291665-e5779480-9aa6-11eb-9f24-722fd7c845c8.jpg | width=50)  
+![image](https://user-images.githubusercontent.com/43493203/114291835-291ece00-9aa8-11eb-9d33-bc21d6b78975.png)
+
+
+If by any means skeleton isn't showing on the `ImageTarget` start over.  
+
+Let's move on the next part of the app:-  
+- Try to speak this word "Hand", now the screenshot will look something like this:-  
+![image](https://user-images.githubusercontent.com/43493203/114291898-8e72bf00-9aa8-11eb-96b8-6ef209a25a94.png)  
+Notice the green arrow that came  
+
+- App is built successfully now, try to use any of these commands to run  
+
+
+
+
+
 
 
 
