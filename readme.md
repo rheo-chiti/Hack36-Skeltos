@@ -23,3 +23,8 @@ Team Name: MAAC
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
+
+## Steps for Setup
+  1) Install Unity <a href="https://docs.unity3d.com/560/Documentation/Manual/InstallingUnity.html"/>
+  2) Setting up Vuforia <a href="https://docs.unity3d.com/2018.4/Documentation/Manual/vuforia_get_started_project_setup.html"/>
+  
