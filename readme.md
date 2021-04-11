@@ -4,6 +4,13 @@
 ## Introduction:
 ``` Skeltos is AR app for voice interactive 3D visualisation of Human Skeleton System.```
 
+## Demo Video Link:
+   <a href="https://drive.google.com/drive/u/0/folders/1c8nHJ8j4TI9jAITYqsl4u9FDagUTCJyI"/>
+  
+## Presentation Link:
+   <a href="https://www.canva.com/design/DAEbRsVkM4w/yxQ17rM2La1OTkzCtannww/view?utm_campaign=designshare&utm_source=sharebutton"/>
+  
+
 ## Technology Stack:
   1) Unity 3D
   2) Vuforia
