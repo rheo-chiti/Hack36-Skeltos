@@ -39,7 +39,7 @@ Team Name: MAAC
 - When the apk runs place your phone in such a way that it's camera faces the `ImageTarget`  
 
 On the laptop it will look something like this:-  
-![ad4b0e58-2f0a-471f-a42e-6e159bdde284](https://user-images.githubusercontent.com/43493203/114291665-e5779480-9aa6-11eb-9f24-722fd7c845c8.jpg)  
+![ad4b0e58-2f0a-471f-a42e-6e159bdde284](https://user-images.githubusercontent.com/43493203/114291665-e5779480-9aa6-11eb-9f24-722fd7c845c8.jpg | width=50)  
 
 
 
