@@ -49,7 +49,9 @@ Let's move on the next part of the app:-
 ![image](https://user-images.githubusercontent.com/43493203/114291898-8e72bf00-9aa8-11eb-96b8-6ef209a25a94.png)  
 Notice the green arrow that came  
 
-- App is built successfully now, try to use any of these commands to run  
+- App is built successfully now, try to use any of these commands to run:-  
+* `hand`, `leg`, `spinal cord`, `skull`, `ribs`, `wrist`, `pelvis`, `shoulder`, `feet`, `thigh`  
+On calling any of these functions corresponding body part will be denoted by the arrow and text will be shown accordingly. Like in the case of `hand` an arrow was pointed to the hand and text was shown.  
 
 
 
