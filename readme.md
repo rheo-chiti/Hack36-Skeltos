@@ -22,7 +22,7 @@
 
 Team Name: MAAC
 
-* [Chitransh Anand](https://github.com/reho-chiti)
+* [Chitransh Anand](https://github.com/rheo-chiti)
 * [Mithilesh Tiwari](https://github.com/m1-key)
 * [Anshika Gangwar](https://github.com/AnshikaGangwar)
 * [Abhay Katheria](https://github.com/abhaykatheria)
